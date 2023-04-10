@@ -11,7 +11,7 @@
     <input id="codigo" name="codigo" type="text" class="form-control" tabindex="1">    
   </div>
   <div class="mb-3">
-    <label for="" class="form-label">Descripción</label>
+    <label for="" class="form-label">Descripciónx</label>
     <input id="descripcion" name="descripcion" type="text" class="form-control" tabindex="2">
   </div>
   <div class="mb-3">
